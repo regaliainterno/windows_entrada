@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre o Projeto
 
-O **`Windows Input 1.0`** é um utilitário desenvolvido por **jdfxop**, projetado para oferecer aos utilizadores um controlo simples e direto sobre o volume de seus dispositivos de entrada no Windows, como microfones.
+O **`Windows Input 1.0`** é um utilitário desenvolvido por **[jdfxop](https://regaliainterno.github.io/jdfxop/)**, projetado para oferecer aos utilizadores um controlo simples e direto sobre o volume de seus dispositivos de entrada no Windows, como microfones.
 
 A aplicação foca-se em fornecer uma interface limpa e eficiente para gerir o áudio de entrada, substituindo os múltiplos cliques necessários nas configurações padrão do Windows por um painel de controlo único e acessível. O objetivo é otimizar o fluxo de trabalho e dar ao utilizador acesso imediato às funções de volume e mute.
 
@@ -29,7 +29,7 @@ A aplicação foca-se em fornecer uma interface limpa e eficiente para gerir o �
 
 O `Windows Input 1.0` é uma aplicação comercial, distribuída como um ficheiro executável (`.exe`).
 
-**Este software foi criado para venda em plataformas digitais (como Kiwify, Hotmart, etc.) e não está disponível para uso público gratuito.** Para adquirir uma licença e fazer o download, por favor, aceda ao link de compra oficial.
+**Para adquirir o software, visite o portfólio oficial do desenvolvedor.** Lá encontrará as informações mais atualizadas e os links diretos para as plataformas de venda (como Kiwify, Hotmart, etc.).
 
 Após a compra, receberá um ficheiro `.zip`. Basta extrair o seu conteúdo e executar o ficheiro `.exe` do `Windows Input 1.0`. A aplicação é portátil e não requer um processo de instalação.
 
@@ -52,6 +52,14 @@ Este projeto é um **software comercial e proprietário**. A compra de uma licen
 * Realizar engenharia reversa, descompilar ou modificar o código-fonte.
 
 Todos os direitos são reservados ao desenvolvedor, **jdfxop**. A violação dos termos de uso resultará no cancelamento da licença e poderá acarretar medidas legais.
+
+---
+
+## 👨‍💻 Portfólio do Desenvolvedor
+
+O `Windows Input 1.0` é um dos projetos de **jdfxop**. Para conhecer o portfólio completo, encontrar links de compra para este e outros softwares, ou explorar mais trabalhos, acesse a página oficial:
+
+* **Página Oficial:** [https://regaliainterno.github.io/jdfxop/](https://regaliainterno.github.io/jdfxop/)
 
 ---
 
