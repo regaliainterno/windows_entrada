@@ -4,53 +4,59 @@
 
 ## 🚀 Sobre o Projeto
 
-O **`Windows Input 1.0`** é uma aplicação desenvolvida por **jdfxop** para proporcionar um controlo otimizado sobre o **volume de entrada** do sistema Windows. Ele permite ajustar o áudio do seu dispositivo de entrada (como um microfone) com precisão e, de forma adicional, **amplificar o ganho do microfone acima do limite padrão de 100%**. Embora essa funcionalidade possa, consequentemente, dar vantagens para jogadores de jogos de FPS (ao captar sons mais sutis), o programa não foi criado com esse intuito principal.
+O **`Windows Input 1.0`** é um utilitário desenvolvido por **jdfxop**, projetado para oferecer aos utilizadores um controlo simples e direto sobre o volume de seus dispositivos de entrada no Windows, como microfones.
+
+A aplicação foca-se em fornecer uma interface limpa e eficiente para gerir o áudio de entrada, substituindo os múltiplos cliques necessários nas configurações padrão do Windows por um painel de controlo único e acessível. O objetivo é otimizar o fluxo de trabalho e dar ao utilizador acesso imediato às funções de volume e mute.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades Principais
 
-* **Controlo de Volume de Entrada Intuitivo:** Ajuste o volume do seu dispositivo de entrada do Windows com uma **barra deslizante** simples, de 0% a 100%.
-* **Mute/Unmute Rápido:** Botão dedicado para mutar e desmutar o áudio do microfone instantaneamente.
-* **Boost de Ganho do Microfone:** Recurso de amplificação para potencializar a captação sonora em diferentes cenários, permitindo aumentar o ganho do microfone acima de 100%.
+* **Controlo de Volume Preciso:** Ajuste o volume do seu dispositivo de entrada de 0% a 100% através de uma barra deslizante simples e responsiva.
+* **Mute/Unmute Instantâneo:** Ative ou desative o seu microfone com um único clique, ideal para reuniões, transmissões ao vivo ou jogos.
+* **Acesso Rápido:** Um painel de controlo dedicado que evita a necessidade de navegar pelos complexos menus de som do Windows para fazer ajustes rápidos.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-Este projeto foi construído principalmente com:
-
-* **Python:** Linguagem de programação robusta e versátil.
-* **EqualizerPro:** Utilizado para aprimorar as capacidades de controlo de áudio de entrada.
-* **NirCMD:** Uma ferramenta útil para interações com o sistema operacional Windows, que foi um ponto de aprendizagem e superação durante o desenvolvimento.
+* **Python:** Linguagem de programação principal usada no desenvolvimento da aplicação.
+* **NirCMD:** Utilitário de linha de comando utilizado para realizar interações de baixo nível com o sistema operativo Windows de forma eficiente e confiável.
 
 ---
 
 ## ⚙️ Como Adquirir e Utilizar
 
-Este aplicativo é distribuído num formato `.exe`.
+O `Windows Input 1.0` é uma aplicação comercial, distribuída como um ficheiro executável (`.exe`).
 
-O arquivo `.exe` do **`Windows Input 1.0` foi criado apenas para venda e não para uso público gratuito**. Quem desejar adquirir e utilizar o programa deve entrar no link que consta no vídeo do YouTube do criador.
+**Este software foi criado para venda em plataformas digitais (como Kiwify, Hotmart, etc.) e não está disponível para uso público gratuito.** Para adquirir uma licença e fazer o download, por favor, aceda ao link de compra oficial.
 
-Para utilizar o programa, será **necessário instalar o Equalizer APO e seguir as instruções que vêm junto com o download**. Após baixar o arquivo `.zip` do aplicativo, basta seguir as instruções contidas nele para a execução. O `Windows Input 1.0` é executado diretamente através de um arquivo `.exe` gerado, eliminando a necessidade de pré-requisitos complexos ou instalações adicionais, exceto pelo Equalizer APO.
+Após a compra, receberá um ficheiro `.zip`. Basta extrair o seu conteúdo e executar o ficheiro `.exe` do `Windows Input 1.0`. A aplicação é portátil e não requer um processo de instalação.
 
 ---
 
-## 🐞 Contribuição
+## 🐞 Reportar Bugs
 
-No momento, as contribuições são focadas principalmente em **relato de bugs**. Sua ajuda em identificar e reportar qualquer problema é muito valiosa para aprimorar a aplicação.
-Caso tenha notado algum BUG, reporte o mesmo no link: [https://forms.gle/xdeKBLiyWsxvcKTu8](https://forms.gle/xdeKBLiyWsxvcKTu8)
+A sua ajuda é fundamental para a melhoria contínua do software. Se encontrar qualquer falha ou comportamento inesperado (bug), por favor, reporte através do formulário oficial:
+
+* **Link para Reporte de Bugs:** [https://forms.gle/xdeKBLiyWsxvcKTu8](https://forms.gle/xdeKBLiyWsxvcKTu8)
 
 ---
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a **licença MIT**. Para mais detalhes sobre os termos e condições, por favor, consulte o arquivo `LICENSE` no repositório.
+Este projeto é um **software comercial e proprietário**. A compra de uma licença concede ao utilizador o direito de uso pessoal e intransferível da aplicação.
+
+**É estritamente proibido:**
+* Redistribuir, alugar, vender ou partilhar o software.
+* Realizar engenharia reversa, descompilar ou modificar o código-fonte.
+
+Todos os direitos são reservados ao desenvolvedor, **jdfxop**. A violação dos termos de uso resultará no cancelamento da licença e poderá acarretar medidas legais.
 
 ---
 
 ## ✉️ Contacto
 
-Para qualquer dúvida, suporte ou para relatar um bug, por favor, entre em contacto através do e-mail:
+Para dúvidas, suporte técnico ou outras questões, entre em contacto:
 
 * **E-mail:** contatolucasscremin@gmail.com
