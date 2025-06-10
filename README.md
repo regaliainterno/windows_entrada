@@ -1,10 +1,10 @@
-# Windows Input 1.0
+# Windows Entrada 1.0
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O **Windows Input 1.0** é um utilitário desenvolvido por **[jdfxop](https://regaliainterno.github.io/jdfxop/)** para simplificar o controle do seu microfone e outros dispositivos de entrada no Windows. Chega de navegar por menus complicados! Nosso objetivo é oferecer uma interface intuitiva e eficaz, colocando o controle do áudio de entrada na ponta dos seus dedos, otimizando seu fluxo de trabalho e garantindo que você esteja sempre no comando do seu som.
+O **Windows Entrada 1.0** é um utilitário desenvolvido por **[jdfxop](https://regaliainterno.github.io/jdfxop/)** para simplificar o controle do seu microfone e outros dispositivos de entrada no Windows. Chega de navegar por menus complicados! Nosso objetivo é oferecer uma interface intuitiva e eficaz, colocando o controle do áudio de entrada na ponta dos seus dedos, otimizando seu fluxo de trabalho e garantindo que você esteja sempre no comando do seu som.
 
 ---
 
