@@ -4,40 +4,50 @@
 
 ## 🚀 Sobre o Projeto
 
-O **`Windows Input 1.0`** é um utilitário desenvolvido por **[jdfxop](https://regaliainterno.github.io/jdfxop/)**, projetado para oferecer aos utilizadores um controlo simples e direto sobre o volume de seus dispositivos de entrada no Windows, como microfones.
-
-A aplicação foca-se em fornecer uma interface limpa e eficiente para gerir o áudio de entrada, substituindo os múltiplos cliques necessários nas configurações padrão do Windows por um painel de controlo único e acessível. O objetivo é otimizar o fluxo de trabalho e dar ao utilizador acesso imediato às funções de volume e mute.
+O **Windows Input 1.0** é um utilitário desenvolvido por **[jdfxop](https://regaliainterno.github.io/jdfxop/)** para simplificar o controle do seu microfone e outros dispositivos de entrada no Windows. Chega de navegar por menus complicados! Nosso objetivo é oferecer uma interface intuitiva e eficaz, colocando o controle do áudio de entrada na ponta dos seus dedos, otimizando seu fluxo de trabalho e garantindo que você esteja sempre no comando do seu som.
 
 ---
 
-## ✨ Funcionalidades Principais
+## ✨ Funcionalidades Completas
 
-* **Controlo de Volume Preciso:** Ajuste o volume do seu dispositivo de entrada de 0% a 100% através de uma barra deslizante simples e responsiva.
-* **Mute/Unmute Instantâneo:** Ative ou desative o seu microfone com um único clique, ideal para reuniões, transmissões ao vivo ou jogos.
-* **Acesso Rápido:** Um painel de controlo dedicado que evita a necessidade de navegar pelos complexos menus de som do Windows para fazer ajustes rápidos.
+* **Controle de Volume Preciso:** Ajuste o volume do seu microfone de 0% a 100% com uma barra deslizante simples e responsiva. Tenha o controle exato que você precisa para qualquer situação.
+
+* **Mudo/Desmudo Instantâneo:** Ative ou desative seu microfone com um único clique. Ideal para reuniões, transmissões ao vivo ou quando você precisa de privacidade imediata.
+
+* **Acesso Rápido:** Um painel de controle dedicado que elimina a necessidade de navegar pelos complexos menus de som do Windows para fazer ajustes rápidos.
+
+* **Vumeter para Verificação em Tempo Real:** Quer saber se seu microfone está captando som? Com o **Vumeter integrado**, você tem uma representação visual em tempo real do nível de áudio que está sendo captado, perfeito para confirmar o funcionamento antes de uma chamada importante.
+
+* **Atalho de Teclas Personalizável:** Mute ou desmute seu microfone instantaneamente com um atalho de teclado global de sua escolha. Não importa o que você esteja fazendo, o controle está sempre a um toque de distância.
+
+* **Volume em 100% Constante (Modo 'Always On'):** Para quem precisa do máximo de potência e clareza, ative o **modo "Volume Sempre em 100%"**. O aplicativo monitora e ajusta o volume do microfone padrão para 100% a cada 1.3 segundos, garantindo que ele nunca abaixe acidentalmente. Essencial para gamers, streamers e chamadas profissionais.
+
+Todas essas funcionalidades operam diretamente no **dispositivo de entrada de áudio padrão** configurado no seu sistema, proporcionando uma experiência de usuário fluida e sem complicações.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python:** Linguagem de programação principal usada no desenvolvimento da aplicação.
-* **NirCMD:** Utilitário de linha de comando utilizado para realizar interações de baixo nível com o sistema operativo Windows de forma eficiente e confiável.
+* **Python:** A linguagem de programação principal por trás do desenvolvimento do aplicativo.
+* **NirCMD:** Um utilitário de linha de comando robusto que permite interações eficientes e confiáveis com o sistema operacional Windows.
 
 ---
 
 ## ⚙️ Como Adquirir e Utilizar
 
-O `Windows Input 1.0` é uma aplicação comercial, distribuída como um ficheiro executável (`.exe`).
+O Windows Input 1.0 é uma aplicação comercial, distribuída como um arquivo executável (`.exe`).
 
-**Para adquirir o software, visite o portfólio oficial do desenvolvedor.** Lá encontrará as informações mais atualizadas e os links diretos para as plataformas de venda (como Kiwify, Hotmart, etc.).
+**Para adquirir o software, visite o portfólio oficial do desenvolvedor ou utilize o link de compra direta abaixo:**
 
-Após a compra, receberá um ficheiro `.zip`. Basta extrair o seu conteúdo e executar o ficheiro `.exe` do `Windows Input 1.0`. A aplicação é portátil e não requer um processo de instalação.
+* **Link de Compra (Kirvano):** [https://pay.kirvano.com/c7381784-b677-495a-a6a9-1a3b80cc07d1](https://pay.kirvano.com/c7381784-b677-495a-a6a9-1a3b80cc07d1)
+
+Após a compra, você receberá um arquivo `.zip`. Basta extrair seu conteúdo e executar o arquivo `Windows Input 1.0.exe`. O aplicativo é portátil e não requer um processo de instalação.
 
 ---
 
 ## 🐞 Reportar Bugs
 
-A sua ajuda é fundamental para a melhoria contínua do software. Se encontrar qualquer falha ou comportamento inesperado (bug), por favor, reporte através do formulário oficial:
+Sua colaboração é fundamental para a melhoria contínua do software. Se você encontrar qualquer falha ou comportamento inesperado (bug), por favor, reporte-o através do formulário oficial:
 
 * **Link para Reporte de Bugs:** [https://forms.gle/xdeKBLiyWsxvcKTu8](https://forms.gle/xdeKBLiyWsxvcKTu8)
 
@@ -45,10 +55,10 @@ A sua ajuda é fundamental para a melhoria contínua do software. Se encontrar q
 
 ## 📜 Licença
 
-Este projeto é um **software comercial e proprietário**. A compra de uma licença concede ao utilizador o direito de uso pessoal e intransferível da aplicação.
+Este projeto é um **software comercial e proprietário**. A aquisição de uma licença concede ao usuário o direito de uso pessoal e intransferível do aplicativo.
 
 **É estritamente proibido:**
-* Redistribuir, alugar, vender ou partilhar o software.
+* Redistribuir, alugar, vender ou compartilhar o software.
 * Realizar engenharia reversa, descompilar ou modificar o código-fonte.
 
 Todos os direitos são reservados ao desenvolvedor, **jdfxop**. A violação dos termos de uso resultará no cancelamento da licença e poderá acarretar medidas legais.
@@ -57,14 +67,14 @@ Todos os direitos são reservados ao desenvolvedor, **jdfxop**. A violação dos
 
 ## 👨‍💻 Portfólio do Desenvolvedor
 
-O `Windows Input 1.0` é um dos projetos de **jdfxop**. Para conhecer o portfólio completo, encontrar links de compra para este e outros softwares, ou explorar mais trabalhos, acesse a página oficial:
+O Windows Input 1.0 é um dos projetos de **jdfxop**. Para conhecer o portfólio completo, encontrar links de compra para este e outros softwares, ou explorar mais trabalhos, acesse a página oficial:
 
 * **Página Oficial:** [https://regaliainterno.github.io/jdfxop/](https://regaliainterno.github.io/jdfxop/)
 
 ---
 
-## ✉️ Contacto
+## ✉️ Contato
 
-Para dúvidas, suporte técnico ou outras questões, entre em contacto:
+Para dúvidas, suporte técnico ou outras questões, entre em contato:
 
 * **E-mail:** contatolucasscremin@gmail.com
