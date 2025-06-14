@@ -8,6 +8,14 @@ O **Windows Entrada 1.0** é um utilitário desenvolvido por **[jdfxop](https://
 
 ---
 
+## 🎬 Vídeo Explicativo
+
+Assista ao vídeo no YouTube para ver uma explicação completa e demonstração da aplicação:
+
+[![Vídeo Explicativo - Windows Entrada 1.0](https://img.youtube.com/vi/Si59X8KAxAo/0.jpg)](https://www.youtube.com/watch?v=Si59X8KAxAo)
+
+---
+
 ## ✨ Funcionalidades Completas
 
 * **Controle de Volume Preciso:** Ajuste o volume do seu microfone de 0% a 100% com uma barra deslizante simples e responsiva. Tenha o controle exato que você precisa para qualquer situação.
