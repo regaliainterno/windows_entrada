@@ -12,8 +12,6 @@ O **Windows Entrada 1.0** é um utilitário desenvolvido por **[jdfxop](https://
 
 Assista ao vídeo no YouTube para ver uma explicação completa e demonstração da aplicação:
 
-[![Vídeo Explicativo - Windows Entrada 1.0](https://img.youtube.com/vi/Si59X8KAxAo/0.jpg)](https://www.youtube.com/watch?v=Si59X8KAxAo)
-
 <div align="center">
 
 <a href="https://www.youtube.com/watch?v=Si59X8KAxAo" target="_blank">
