@@ -14,20 +14,25 @@ Assista ao vídeo no YouTube para ver uma explicação completa e demonstração
 
 [![Vídeo Explicativo - Windows Entrada 1.0](https://img.youtube.com/vi/Si59X8KAxAo/0.jpg)](https://www.youtube.com/watch?v=Si59X8KAxAo)
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=Si59X8KAxAo" target="_blank">
+  <img src="https://img.youtube.com/vi/Si59X8KAxAo/0.jpg" alt="Windows Entrada 1.0 - Vídeo Explicativo" style="width:50%;max-width:400px;border:1px solid #bbb;border-radius:8px;box-shadow:2px 2px 8px #aaa;">
+  <br>
+  <b>Assista no YouTube</b>
+</a>
+
+</div>
+
 ---
 
 ## ✨ Funcionalidades Completas
 
 * **Controle de Volume Preciso:** Ajuste o volume do seu microfone de 0% a 100% com uma barra deslizante simples e responsiva. Tenha o controle exato que você precisa para qualquer situação.
-
 * **Mudo/Desmudo Instantâneo:** Ative ou desative seu microfone com um único clique. Ideal para reuniões, transmissões ao vivo ou quando você precisa de privacidade imediata.
-
 * **Acesso Rápido:** Um painel de controle dedicado que elimina a necessidade de navegar pelos complexos menus de som do Windows para fazer ajustes rápidos.
-
 * **Vumeter para Verificação em Tempo Real:** Quer saber se seu microfone está captando som? Com o **Vumeter integrado**, você tem uma representação visual em tempo real do nível de áudio que está sendo captado, perfeito para confirmar o funcionamento antes de uma chamada importante.
-
 * **Atalho de Teclas Personalizável:** Mute ou desmute seu microfone instantaneamente com um atalho de teclado global de sua escolha. Não importa o que você esteja fazendo, o controle está sempre a um toque de distância.
-
 * **Volume em 100% Constante (Modo 'Always On'):** Para quem precisa do máximo de potência e clareza, ative o **modo "Volume Sempre em 100%"**. O aplicativo monitora e ajusta o volume do microfone padrão para 100% a cada 1.3 segundos, garantindo que ele nunca abaixe acidentalmente. Essencial para gamers, streamers e chamadas profissionais.
 
 Todas essas funcionalidades operam diretamente no **dispositivo de entrada de áudio padrão** configurado no seu sistema, proporcionando uma experiência de usuário fluida e sem complicações.
